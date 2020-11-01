@@ -1,0 +1,25 @@
+body{
+background-color: rgb(34,57,106);
+color:white;
+
+
+}
+.line_space{
+    line-height: 1.8;
+}
+h1{
+    color: white;
+}
+address{
+    color: white;
+}
+h2{
+    color:rgb(48,179,102);
+   
+}
+h3{
+    color: white;
+}
+a{
+    color: rgb(228,37,79);
+}
